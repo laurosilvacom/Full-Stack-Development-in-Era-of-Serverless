@@ -1,6 +1,8 @@
-# Egghead talk notes: Full Stack Development in the Era of Serverless Computing
+# Egghead Talk Notes: Full Stack Development in the Era of Serverless Computing by Nader Dabit
 
-By [Nader Dabit](https://twitter.com/dabit3)
+## Links
+
+- [Nader Dabit](https://twitter.com/dabit3)
 
 - This talk introduce a workflow that allows front end developers to build full stack applications using JavaScript by taking advantage of managed services, implementing real-world features like authentication, managed GraphQL APIs, serverless Lambda functions, &amp; chatbots using a CLI based workflow.
 
@@ -21,7 +23,7 @@ By [Nader Dabit](https://twitter.com/dabit3)
   - Serverful becoming relatively less important
   - Serverless computing becomes the default computing paradigm of the cloud era
 
-# How To be "More Serverless"
+## How To be "More Serverless"
 
 - service-full + functions as a service
 - tighter correspondence between resources used and resources billed
@@ -34,7 +36,7 @@ By [Nader Dabit](https://twitter.com/dabit3)
   - Front and backend sync
   - Asking for the data that you need
 
-# Full Stack Serverless
+## Full Stack Serverless
 
 - Intentional use of managed services
 - Serverless functions to full in gaps
@@ -73,7 +75,7 @@ By [Nader Dabit](https://twitter.com/dabit3)
 - [Conference in a Box](https://github.com/dabit3/conference-app-in-a-box)
 - [JamStackCMS](https://www.jamstackcms.io)
 
-## Summary
+# Summary
 
 ## The future:
 
