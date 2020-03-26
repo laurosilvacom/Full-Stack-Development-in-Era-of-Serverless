@@ -53,15 +53,15 @@
 
 ## Building Serverless
 
-- Tools:
+- **Tools:**
 
 ![](./images/tools.png)
 
-- Amplify:
+- **Amplify:**
 
 ![](./images/amplify.png)
 
-- GraphQL:
+- **GraphQL:**
 
 ![](./images/graphql.png)
 
