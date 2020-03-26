@@ -9,9 +9,9 @@
 ## Abstractions
 
 - Take advantage of abstractions.
-  - Old Frontend abstractions: HTML, CSS, JQuery
-  - New frontend abstraction: HTML, CSS, JS, Frameworks, Webpack, Client Caching, PWA...
-  - Complexity is due to high quality out of top companies, multiple targets, increased user expectations, more powerful devices.
+  - **Old Frontend abstractions:** HTML, CSS, JQuery
+  - **New frontend abstraction:**HTML, CSS, JS, Frameworks, Webpack, Client Caching, PWA...
+    - Complexity is due to high quality out of top companies, multiple targets, increased user expectations, more powerful devices.
 
 # What's next?
 
@@ -74,7 +74,7 @@
 
 ## The future:
 
-- Lines blurred between the front end and full-stack, everyone is full-stack serverless
+- Lines blurred between the front end and full-stack, everyone is full-stack serverless in the future
 - Front end skillset increasingly valuable
 - **Serverless becomes default computing paradigm**
 - **Teams organized by feature vs platform, stack**
@@ -82,5 +82,5 @@
 ## Drawbacks:
 
 - Increased risk when service is not available
-- Bleeding edge
+- Working on the bleeding edge
 - Vendor lock-in
