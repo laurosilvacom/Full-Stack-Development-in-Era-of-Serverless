@@ -16,43 +16,38 @@
 # What's next?
 
 - Initially cloud infrastructure. Now serverless. **What's next?**
-- Serverless (Cloud Computing Simplified - A Berkeley View on Serverless Computing)
-  - More BAAS storage services (MongoDB)
-  - Serverless becomes simpler (Zeit, Netlify)
-  - Serverless becomes cheaper then serverful
-  - Serverful becoming relatively less important
-  - Serverless computing becomes the default computing paradigm of the cloud era
+- [Cloud Computing Simplified - A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
+  - Summary:
+    - More BAAS storage services (MongoDB)
+    - Serverless becomes simpler (Zeit, Netlify)
+    - Serverless becomes cheaper then serverful
+    - Serverful becoming relatively less important
+    - Serverless computing becomes the default computing paradigm of the cloud era`
 
 ## How To be "More Serverless"
 
-- service-full + functions as a service
-- tighter correspondence between resources used and resources billed
-- smaller & more abstracted control plane
-- service-full service
+- Intentional use of managed services
+- Use Serverless functions to fill in gaps
+- Use Custom client SDK's for API interactions
+- Use GraphQL as the main data source
+- Use service-full service
   - No server operations, essentially codeless, assume responsibility
   - Example: Cloudinary, Auth0, Algolia, Netlify, Amplify
-- GraphQL
+- Use GraphQL
   - Data graph is a menu due to microservices
   - Front and backend sync
   - Asking for the data that you need
-
-## Full Stack Serverless
-
-- Intentional use of managed services
-- Serverless functions to full in gaps
-- Custom client SDK's for API interactions
-- GraphQL as the main data source
 
 ## Assumptions
 
 - Agility is a key market differentiator
 - Code is a liability
-- Front-end skillset increasingly valuable
+- **Front-end skillset increasingly valuable**
 - A deliberate focus on not reinventing the wheel
 
 ## Benefits
 
-- Frontend developers move faster (increased developer velocity and efficiency)
+- Frontend developers move faster = **increased developer velocity and efficiency**
 - Decreased complexity
 - More secure, reliable, scalable
 
