@@ -10,7 +10,7 @@
 
 - Take advantage of abstractions.
   - **Old Frontend abstractions:** HTML, CSS, JQuery
-  - **New frontend abstraction:**HTML, CSS, JS, Frameworks, Webpack, Client Caching, PWA...
+  - **New frontend abstraction:** HTML, CSS, JS, Frameworks, Webpack, Client Caching, PWA...
     - Complexity is due to high quality out of top companies, multiple targets, increased user expectations, more powerful devices.
 
 # What's next?
